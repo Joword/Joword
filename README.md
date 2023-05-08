@@ -1,5 +1,5 @@
 
-Joword, junhua meng
+Hello! this is joword, junhua meng.
 
 
 🎓 I have a master degree in bioinformatic, worked on BGI as full-stack engineer. 
