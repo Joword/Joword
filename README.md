@@ -4,9 +4,12 @@
 <p align="center">
     <a href="https://github.com/Joword/Joword"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/Joword/Joword/graphs/contributors"><img src="https://img.shields.io/github/contributors/Joword/Joword?color=blue"></a>
-    <a href="https://github.com/Joword/Joword/stargazers"><img src="https://img.shields.io/github/stars/Joword/Joword.svg?logo=github"></a>
-    <a href="https://github.com/Joword/Joword/network/members"><img src="https://img.shields.io/github/forks/Joword/Joword.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/Java"><img src="https://img.shields.io/badge/Java-8-red.svg"></a>
+    <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/Golang-blue.svg"></a>
+    <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-orange.svg"></a>
+    <!-- <a href="https://github.com/Joword/Joword/graphs/contributors"><img src="https://img.shields.io/github/contributors/Joword/Joword?color=blue"></a> -->
+    <!-- <a href="https://github.com/Joword/Joword/stargazers"><img src="https://img.shields.io/github/stars/Joword/Joword.svg?logo=github"></a>
+    <a href="https://github.com/Joword/Joword/network/members"><img src="https://img.shields.io/github/forks/Joword/Joword.svg?color=blue&logo=github"></a> -->
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Joword.Joword" alt="visitors"/>   
 </p>
 
